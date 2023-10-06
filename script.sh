@@ -13,8 +13,8 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="speedify10802"
-password="speedify10802"
+username="speed"
+password="speed"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="500"
@@ -69,7 +69,7 @@ echo ""
 echo -e "\033[1;37m▬▬▬▬▬▬✿TAIWAN✿▬▬▬▬▬▬▬"
 echo ""
 echo -e "\033[1;32m◈ Host / IP   :⪧  \033[1;31m$IP"
-echo -e "\033[1;32m◈ Port        :⪧  \033[1;31m6000"
+echo -e "\033[1;32m◈ Port        :⪧  \033[1;31m8080"
 echo -e "\033[1;32m◈ Username    :⪧  \033[1;31m$username"
 echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m$password"
 echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$sshlimiter"
